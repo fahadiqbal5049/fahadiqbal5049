@@ -107,6 +107,7 @@ I've built **production-critical systems** for major manufacturing and industria
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2E9EF7','primaryTextColor':'#fff','primaryBorderColor':'#1a73e8','lineColor':'#4CAF50','secondaryColor':'#4CAF50','tertiaryColor':'#FF6B6B','noteBkgColor':'#2E9EF7','noteTextColor':'#fff'}}}%%
 mindmap
   root((Full-Stack
     Engineering))
