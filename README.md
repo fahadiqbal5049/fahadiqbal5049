@@ -117,18 +117,6 @@ Strong background in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadiqbal5049&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal5049&layout=compact" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 🔗 GitHub: https://github.com/fahadiqbal5049  
