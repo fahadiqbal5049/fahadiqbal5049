@@ -149,7 +149,7 @@ Strong foundation in:
 
 ## 📫 Let’s Connect
 
-🔗 GitHub: https://github.com/fahadiqbal5049  
+🔗 Upwork: https://www.upwork.com/freelancers/~013434c9a45cb148a4
 🔗 LinkedIn: https://www.linkedin.com/in/fahad-iqbal-b4050a24b/  
 
 ---
