@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fahadiqbal5049/fahadiqbal5049/main/fahad_header.gif" alt="Fahad - Full-Stack Software Engineer" />
+</p>
+
 <h1 align="center">Hi, I'm Fahad 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | .NET • Angular • Enterprise & Industrial Systems</h3>
 
