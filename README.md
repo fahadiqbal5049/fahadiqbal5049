@@ -68,6 +68,7 @@ These systems included:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,azure,postman,vscode,visualstudio" />
   <img src="https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira" />
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Management-red?logo=microsoftsqlserver" />
 </p>
 
 ---
