@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-fahadiqbal5049-black?logo=github&style=for-the-badge)](https://github.com/fahadiqbal5049)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahad%20Iqbal-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fahad-iqbal-b4050a24b/)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~013434c9a45cb148a4)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr&style=for-the-badge&logoColor=white)](https://www.fiverr.com/fahadiqbal252)
 
 </div>
 
@@ -102,6 +103,19 @@ I've built **production-critical systems** for major manufacturing and industria
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadiqbal5049&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadiqbal5049&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal5049&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+</div>
+
+---
+
 ## 🎯 Core Specializations
 
 <div align="center">
@@ -167,6 +181,7 @@ HITEC University (2020 – 2024)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahad-iqbal-b4050a24b/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~013434c9a45cb148a4)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/fahadiqbal252)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
