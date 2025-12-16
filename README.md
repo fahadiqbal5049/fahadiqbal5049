@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer | .NET • Angular • Enterprise & Industrial Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Enterprise+Solutions;Industrial+%26+Business+Systems+Specialist;.NET+Core+%7C+Angular+%7C+SQL+Server;Production-Ready+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Enterprise+Solutions;Industrial+%26+Business+Systems+Specialist;.NET+Core+%7C+Angular+%7C+React+%7C+Node.js;MERN+%26+.NET+Stack+Developer;Production-Ready+Applications" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-fahadiqbal5049-black?logo=github&style=for-the-badge)](https://github.com/fahadiqbal5049)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahad%20Iqbal-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fahad-iqbal-b4050a24b/)
@@ -29,9 +29,9 @@ I'm a **Full-Stack Software Engineer** specializing in building **production-gra
 - ✅ **Real-Time Monitoring Dashboards**
 
 ### 🛠️ Tech Stack:
-- **Backend:** .NET Core, ASP.NET MVC, Entity Framework
-- **Frontend:** Angular, TypeScript, JavaScript
-- **Databases:** SQL Server, Oracle PL/SQL
+- **Backend:** .NET Core, ASP.NET MVC, Node.js, Express.js, Entity Framework
+- **Frontend:** Angular, React, TypeScript, JavaScript
+- **Databases:** SQL Server, MongoDB, Oracle PL/SQL, MySQL
 - **Tools:** Azure, ThingsBoard, Git, Jira
 
 <br clear="right"/>
@@ -76,10 +76,13 @@ I've built **production-critical systems** for major manufacturing and industria
 ### Backend & APIs
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,6 +91,7 @@ I've built **production-critical systems** for major manufacturing and industria
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -182,7 +186,7 @@ HITEC University (2020 – 2024)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahad-iqbal-b4050a24b/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~013434c9a45cb148a4)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/fahadiqbal252)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadiqbal5049@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
