@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fahad Iqbal
 
-### Full-Stack Software Engineer | .NET • Angular • Enterprise & Industrial Systems
+### Full-Stack Software Engineer | .NET • Angular • React • Node • Enterprise & Industrial Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Enterprise+Solutions;Industrial+%26+Business+Systems+Specialist;.NET+Core+%7C+Angular+%7C+React+%7C+Node.js;MERN+%26+.NET+Stack+Developer;Production-Ready+Applications" alt="Typing SVG" />
 
