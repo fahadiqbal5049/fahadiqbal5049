@@ -107,19 +107,6 @@ I've built **production-critical systems** for major manufacturing and industria
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadiqbal5049&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadiqbal5049&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal5049&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-</div>
-
----
-
 ## 🎯 Core Specializations
 
 <div align="center">
