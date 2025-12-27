@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Enterprise+Solutions;Industrial+%26+Business+Systems+Specialist;.NET+Core+%7C+Angular+%7C+React+%7C+Node.js;MERN+%26+.NET+Stack+Developer;Production-Ready+Applications" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-fahadiqbal5049-black?logo=github&style=for-the-badge)](https://github.com/fahadiqbal5049)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadiqbal5049@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahad%20Iqbal-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fahad-iqbal-b4050a24b/)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~013434c9a45cb148a4)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr&style=for-the-badge&logoColor=white)](https://www.fiverr.com/fahadiqbal252)
